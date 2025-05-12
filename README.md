@@ -26,17 +26,6 @@ Proyek ini adalah implementasi game **Ping Pong klasik** menggunakan paradigma p
 2. Buka folder proyek ini di Processing.
 3. Jalankan `PingPong.pde` atau file utama dengan klik tombol **Play**.
 
-## 📁 Struktur Folder
-
-```
-ProjectPingpong/
-├── Ball.pde
-├── Paddle.pde
-├── PingPong.pde
-├── Garnish.pde
-└── README.md
-```
-
 ## 👨‍💻 Author
 
 * **Yuki Resky Damanik**
