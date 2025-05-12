@@ -1,39 +1,40 @@
-# 🎮 Ping Pong Game – Final Project OOP
+# 🎮 Ping Pong Game – Final OOP Project
 
-Dibuat dengan **Processing** sebagai tugas akhir mata kuliah **Object-Oriented Programming (OOP)**.
+Created using **Processing** as the final project for the **Object-Oriented Programming (OOP)** course.
 
-## 📌 Deskripsi
+## 📌 Description
 
-Proyek ini adalah implementasi game **Ping Pong klasik** menggunakan paradigma pemrograman berorientasi objek di Processing. Game ini mengajak pemain untuk mengontrol paddle dan memantulkan bola selama mungkin sambil mencetak skor tertinggi.
+This project is a classic **Ping Pong game** implemented using the object-oriented programming paradigm in Processing. The game challenges players to control a paddle and keep the ball bouncing for as long as possible while aiming for the highest score.
 
-## 🎯 Fitur Utama
+## 🎯 Key Features
 
-* Kontrol paddle menggunakan keyboard (← dan →)
-* Deteksi tumbukan bola dan paddle
-* Peningkatan kecepatan bola secara bertahap
-* Tampilan skor secara real-time
-* Desain modular berbasis OOP (menggunakan class untuk bola dan paddle)
+* Paddle control using keyboard (← and → keys)
+* Ball and paddle collision detection
+* Gradual increase in ball speed
+* Real-time score display
+* Modular design using OOP (with classes for ball and paddle)
 
-## 🧠 Konsep OOP yang Diterapkan
+## 🧠 OOP Concepts Implemented
 
-* **Class & Object**: Masing-masing entitas dalam game (bola, paddle) direpresentasikan sebagai objek.
-* **Encapsulation**: Variabel dan fungsi dibungkus dalam class dengan akses terbatas.
-* **Abstraction**: Game logic dipisahkan dari detail implementasi UI.
+* **Class & Object**: Each game entity (ball, paddle) is represented as an object.
+* **Encapsulation**: Variables and functions are encapsulated within classes with limited access.
+* **Abstraction**: Game logic is separated from UI implementation details.
 
-## ▶️ Cara Menjalankan
+## ▶️ How to Run
 
-1. Pastikan kamu sudah menginstal **Processing IDE**: [https://processing.org/download](https://processing.org/download)
-2. Buka folder proyek ini di Processing.
-3. Jalankan `PingPong.pde` atau file utama dengan klik tombol **Play**.
+1. Make sure you have **Processing IDE** installed: [https://processing.org/download](https://processing.org/download)
+2. Open this project folder in Processing.
+3. Run `PingPong.pde` or the main file by clicking the **Play** button.
 
-## 🖼️ Tampilan Game
-Berikut adalah tampilan dari game Ping Pong saat dijalankan:
-![Tampilan Game](Gameplay.png)
+## 🖼️ Game Preview
+
+Below is a screenshot of the Ping Pong game in action:
+![Game Preview](Gameplay.png)
 
 ## 👨‍💻 Author
 
 * **Yuki Resky Damanik**
-  Mahasiswa Universitas Prasetiya Mulya
-  Mata Kuliah: Object-Oriented Programming
+  Student at Universitas Prasetiya Mulya
+  Course: Object-Oriented Programming
 
 ---
