@@ -25,14 +25,12 @@ Proyek ini adalah implementasi game **Ping Pong klasik** menggunakan paradigma p
 * **Class & Object**: Masing-masing entitas dalam game (bola, paddle) direpresentasikan sebagai objek.
 * **Encapsulation**: Variabel dan fungsi dibungkus dalam class dengan akses terbatas.
 * **Abstraction**: Game logic dipisahkan dari detail implementasi UI.
-* **Inheritance** *(jika ada)*: Bisa disebutkan jika kamu membuat class turunan.
-* **Polymorphism** *(jika ada)*: Dapat disebutkan jika kamu menerapkan method overriding.
 
 ## ▶️ Cara Menjalankan
 
 1. Pastikan kamu sudah menginstal **Processing IDE**: [https://processing.org/download](https://processing.org/download)
 2. Buka folder proyek ini di Processing.
-3. Jalankan `main.pde` atau file utama dengan klik tombol **Play**.
+3. Jalankan `PingPong.pde` atau file utama dengan klik tombol **Play**.
 
 ## 📁 Struktur Folder
 
