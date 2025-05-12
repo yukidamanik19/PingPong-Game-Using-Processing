@@ -1,48 +1,53 @@
-🎮 Ping Pong Game – Final Project OOP
-Dibuat dengan Processing sebagai tugas akhir mata kuliah Object-Oriented Programming (OOP).
+Terima kasih! Saya lihat kamu mengunggah file `.zip` berjudul **ProjectPingpong\_YukiReskyDamanik.zip** — kemungkinan besar berisi game pingpong buatanmu dengan **Processing** untuk tugas akhir mata kuliah **Object-Oriented Programming (OOP)**.
 
-📌 Deskripsi
-Proyek ini adalah implementasi game Ping Pong klasik menggunakan paradigma pemrograman berorientasi objek di Processing. Game ini mengajak pemain untuk mengontrol paddle dan memantulkan bola selama mungkin sambil mencetak skor tertinggi.
+Berikut contoh deskripsi `README.md` yang cocok untuk repositori GitHub kamu:
 
-🎯 Fitur Utama
-Kontrol paddle menggunakan keyboard (← dan →)
+---
 
-Deteksi tumbukan bola dan paddle
+# 🎮 Ping Pong Game – Final Project OOP
 
-Peningkatan kecepatan bola secara bertahap
+Dibuat dengan **Processing** sebagai tugas akhir mata kuliah **Object-Oriented Programming (OOP)**.
 
-Tampilan skor secara real-time
+## 📌 Deskripsi
 
-Desain modular berbasis OOP (menggunakan class untuk bola dan paddle)
+Proyek ini adalah implementasi game **Ping Pong klasik** menggunakan paradigma pemrograman berorientasi objek di Processing. Game ini mengajak pemain untuk mengontrol paddle dan memantulkan bola selama mungkin sambil mencetak skor tertinggi.
 
-🧠 Konsep OOP yang Diterapkan
-Class & Object: Masing-masing entitas dalam game (bola, paddle) direpresentasikan sebagai objek.
+## 🎯 Fitur Utama
 
-Encapsulation: Variabel dan fungsi dibungkus dalam class dengan akses terbatas.
+* Kontrol paddle menggunakan keyboard (← dan →)
+* Deteksi tumbukan bola dan paddle
+* Peningkatan kecepatan bola secara bertahap
+* Tampilan skor secara real-time
+* Desain modular berbasis OOP (menggunakan class untuk bola dan paddle)
 
-Abstraction: Game logic dipisahkan dari detail implementasi UI.
+## 🧠 Konsep OOP yang Diterapkan
 
-Inheritance (jika ada): Bisa disebutkan jika kamu membuat class turunan.
+* **Class & Object**: Masing-masing entitas dalam game (bola, paddle) direpresentasikan sebagai objek.
+* **Encapsulation**: Variabel dan fungsi dibungkus dalam class dengan akses terbatas.
+* **Abstraction**: Game logic dipisahkan dari detail implementasi UI.
+* **Inheritance** *(jika ada)*: Bisa disebutkan jika kamu membuat class turunan.
+* **Polymorphism** *(jika ada)*: Dapat disebutkan jika kamu menerapkan method overriding.
 
-Polymorphism (jika ada): Dapat disebutkan jika kamu menerapkan method overriding.
+## ▶️ Cara Menjalankan
 
-▶️ Cara Menjalankan
-Pastikan kamu sudah menginstal Processing IDE: https://processing.org/download
+1. Pastikan kamu sudah menginstal **Processing IDE**: [https://processing.org/download](https://processing.org/download)
+2. Buka folder proyek ini di Processing.
+3. Jalankan `main.pde` atau file utama dengan klik tombol **Play**.
 
-Buka folder proyek ini di Processing.
+## 📁 Struktur Folder
 
-Jalankan main.pde atau file utama dengan klik tombol Play.
-
-📁 Struktur Folder
-css
-Copy
-Edit
+```
 ProjectPingpong/
 ├── Ball.pde
 ├── Paddle.pde
 ├── main.pde
 └── README.md
-👨‍💻 Author
-Yuki Resky Damanik
-Mahasiswa Universitas Prasetiya Mulya
-Mata Kuliah: Object-Oriented Programming
+```
+
+## 👨‍💻 Author
+
+* **Yuki Resky Damanik**
+  Mahasiswa Universitas Prasetiya Mulya
+  Mata Kuliah: Object-Oriented Programming
+
+---
