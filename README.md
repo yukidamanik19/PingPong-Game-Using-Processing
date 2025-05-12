@@ -1,9 +1,3 @@
-Terima kasih! Saya lihat kamu mengunggah file `.zip` berjudul **ProjectPingpong\_YukiReskyDamanik.zip** — kemungkinan besar berisi game pingpong buatanmu dengan **Processing** untuk tugas akhir mata kuliah **Object-Oriented Programming (OOP)**.
-
-Berikut contoh deskripsi `README.md` yang cocok untuk repositori GitHub kamu:
-
----
-
 # 🎮 Ping Pong Game – Final Project OOP
 
 Dibuat dengan **Processing** sebagai tugas akhir mata kuliah **Object-Oriented Programming (OOP)**.
