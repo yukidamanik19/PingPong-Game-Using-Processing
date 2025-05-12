@@ -32,7 +32,8 @@ Proyek ini adalah implementasi game **Ping Pong klasik** menggunakan paradigma p
 ProjectPingpong/
 ├── Ball.pde
 ├── Paddle.pde
-├── main.pde
+├── PingPong.pde
+├── Garnish.pde
 └── README.md
 ```
 
